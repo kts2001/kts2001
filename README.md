@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Main Logo](https://github.com/kts2001/kts2001/blob/master/LOGO-1.jpg)
+![Main Logo](https://github.com/kts2001/kts2001/blob/master/LOGO-0.jpg)
+
 
 <!--
 **kts2001/kts2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

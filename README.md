@@ -1,9 +1,7 @@
 ### Hi there 👋
 ![Main Logo](https://github.com/kts2001/kts2001/blob/master/LOGO-0.jpg)
 
-**My name is Kareem Zahra, and I work as a student researcher at WIMTACH.
-Also a Centennial College student studying Software Engineering Technology Artificial Intelligence.
-I worked with WIMTACH to help the research team define project goals,  user stories, and the extent of project collaborations.**
+**My name is Kareem Zahra. I am a Software Engineering student specializing in Artificial Intelligence, a research assistant with hands-on experience in academic and industry projects, and a digital content creator managing two educational YouTube channels. I worked with WIMTACH, contributing to research initiatives by defining project goals, writing user stories, and managing technical collaborations. My academic, technical, and content creation experiences have shaped my problem-solving skills, data-driven thinking, and adaptability across digital platforms.**
 
 
 <!--
